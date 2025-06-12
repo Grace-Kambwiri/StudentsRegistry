@@ -1,2 +1,2 @@
 # Student-registry
-databse assignment submission
+Database assignment submission
